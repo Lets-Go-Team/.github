@@ -2,7 +2,10 @@
 
 ## Access
 
+All repositories in this organization are under a proprietary license.
+By default, access is private and limited to the designated owners listed below.
 
+For any consultation requests based on legitimate reasons, please contact one of the contributors.
 
 ## Contributors
 
